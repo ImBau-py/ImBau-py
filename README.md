@@ -1,4 +1,3 @@
-<br>
 <h1>Welcome to my normal profile!</h1>
 <p>This is a normal profile were i put some python code,<br>i have some project in the back but unfortunately are private :pensive:
 <br>but in the future i will public some of those!</p>
