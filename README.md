@@ -1,4 +1,4 @@
-<h1>Welcome to my normal profile!</h1>
+<h1>Welcome to my profile!</h1>
 <p>WORK IN PROGRESS</p>
 <br>
 <h1>Here's my stats</h1>
